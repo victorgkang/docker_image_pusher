@@ -7,3 +7,4 @@
 # powerjob/powerjob-server:5.1.0
 # powerjob/powerjob-server:4.3.9
 # tensorflow/tensorflow:nightly-gpu-jupyter
+docker pull mysql:8.4.11
